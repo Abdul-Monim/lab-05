@@ -1,5 +1,5 @@
-Console.WriteLine("hassan ahmad");
-Console.WriteLine("24-ST-088");
+Console.WriteLine("M.Abdul Monim);
+Console.WriteLine("24-ST-055");
 
 Console.WriteLine("enter num 1");
 int num1=Convert.ToInt32(Console.ReadLine());
