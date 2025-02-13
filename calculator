@@ -13,7 +13,7 @@ Console.WriteLine("enter num 1");
 int num1=Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("enter num 2");
 int num1=Convert.ToInt32(Console.ReadLine());
-int subtractionS = num1 + num2;
+int subtractionS = num1 - num2;
 Console.WriteLine("Subtraction": + subtraction);
 
 
@@ -21,7 +21,7 @@ Console.WriteLine("enter num 1");
 int num1=Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("enter num 2");
 int num1=Convert.ToInt32(Console.ReadLine());
-int multiplication = num1 + num2;
+int multiplication = num1 * num2;
 Console.WriteLine("Multiplication": + multiplication);
 
 
@@ -29,5 +29,7 @@ Console.WriteLine("enter num 1");
 int num1=Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("enter num 2");
 int num1=Convert.ToInt32(Console.ReadLine());
-int division = num1 + num2;
+int division = num1 / num2;
 Console.WriteLine("Division": + division);
+
+
